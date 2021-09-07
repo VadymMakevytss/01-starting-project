@@ -1,0 +1,5 @@
+npm i redux react-redux
+create store.index.js creating store
+implement store in main index.js folder
+import { Provider } from 'react-redux';
+Wrap <Provider><App/></Provider>
